@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"f99e7354ea2ded07","x":-960,"y":-77,"width":400,"height":400,"type":"file","file":"Excalidraw/Drawing 2023-08-12 13.05.12.excalidraw.md"},
+		{"id":"725de4d824aace12","x":-340,"y":93,"width":250,"height":60,"type":"text","text":"Something"}
+	],
+	"edges":[
+		{"id":"ab528cf7c8a700b5","fromNode":"725de4d824aace12","fromSide":"left","toNode":"f99e7354ea2ded07","toSide":"right"}
+	]
+}

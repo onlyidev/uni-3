@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "44271277ad802ff7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a83ba456dc8b2b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ade2803dda845ca0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "math/test.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52bd548d2d698293",
+    "type": "split",
+    "children": [
+      {
+        "id": "80fa8ea72f1aab83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3360f32c9964518d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34c6195a2f72454b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#test",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7f2e34607a10e236",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8d9c6f59af7b235e",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "437295f59331b9d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dac0497605f84e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b11f0e2eb0146f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "math/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f3790e6e1c2d455",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "math/test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cebac0c3c17eb20c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f1fd152c48b8760",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "math/test.md"
+              }
+            }
+          },
+          {
+            "id": "9c8cded33324e02f",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a2b9595abbd9031",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "ade2803dda845ca0",
+  "lastOpenFiles": [
+    "math/test.md",
+    "math/attachements/test 2023-08-12 14.20.42.excalidraw.md",
+    "templates/draw.md",
+    "math/attachements/test 2023-08-12 14.09.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-12 13.05.12.excalidraw.md",
+    "math/attachements/test 2023-08-12 14.07.52.excalidraw.md",
+    "test 2023-08-12 14.07.52.excalidrawi.md",
+    "templates/attachements/draw 2023-08-12 14.07.20.excalidraw.md",
+    "templates/attachements",
+    "math/attachements/test 2023-08-12 14.02.54.excalidraw.md",
+    "math/attachements/test 2023-08-12 14.02.15.excalidraw.md",
+    "math/attachements/test 2023-08-12 14.01.36.excalidraw.md",
+    "math/attachements",
+    "templates",
+    "Excalidraw/Drawing 2023-08-12 13.11.10.excalidraw.md",
+    "Excalidraw/Drawing 2023-08-12 13.06.52.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw",
+    "math",
+    "Drawing 2023-08-12 12.46.55.excalidraw.md",
+    "Untitled 3.md",
+    "2023-08-12.md",
+    "Untitled.md",
+    "math/testing.md",
+    "This is a title.md",
+    "Untitled 2.md",
+    "Untitled 1.md"
+  ]
+}
