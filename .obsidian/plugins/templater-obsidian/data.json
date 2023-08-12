@@ -1,12 +1,7 @@
 {
   "command_timeout": 5,
   "templates_folder": "templates",
-  "templates_pairs": [
-    [
-      "",
-      ""
-    ]
-  ],
+  "templates_pairs": [],
   "trigger_on_file_creation": false,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,

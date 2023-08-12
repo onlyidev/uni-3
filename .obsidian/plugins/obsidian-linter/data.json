@@ -252,7 +252,14 @@
       "name": "Templater: Replace templates in the active file"
     }
   ],
-  "customRegexes": [],
+  "customRegexes": [
+    {
+      "label": "Set size for embedded previews",
+      "find": "!(\\[{1,2})([^|]+?)\\]",
+      "replace": "!$1$2|#xx-small]",
+      "flags": "gm"
+    }
+  ],
   "commonStyles": {
     "aliasArrayStyle": "single-line",
     "tagArrayStyle": "single-line",

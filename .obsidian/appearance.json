@@ -4,5 +4,6 @@
   "interfaceFontFamily": "",
   "textFontFamily": "",
   "monospaceFontFamily": "JetBrains Mono",
-  "translucency": true
+  "translucency": true,
+  "theme": "obsidian"
 }
