@@ -242,7 +242,8 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "templates"
+    "templates",
+    "Excalidraw/Scripts"
   ],
   "linterLocale": "system-default",
   "logLevel": 4,

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3fb66c6c30889e25",
+        "id": "29f1b9ea0e771233",
         "type": "tabs",
         "children": [
           {
-            "id": "2ce6ee65210aec3a",
+            "id": "c012258d9599eddb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "global/Stats.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "global/Stats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "global/Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "global/Stats.md"
+              }
             }
           },
           {
@@ -138,13 +146,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "df42e363e3ed1f08",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,43 +174,52 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "2ce6ee65210aec3a",
+  "active": "c012258d9599eddb",
   "lastOpenFiles": [
-    "math/Something.md",
-    "math/attachements/Something 2023-08-12 15.50.51.excalidraw.md",
+    "src/math/something.md",
+    "global/Stats.md",
+    "src/math/attachements/something 2023-08-18 20.08.12.excalidraw.md",
+    "src/math/Lecture1.md",
+    "src/math/attachements/Lecture1 2023-08-18 20.28.20.excalidraw.md",
+    "templates/Note.md",
+    "Excalidraw/Scripts/Plot.md",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
+    "src/math/attachements/something 2023-08-13 21.36.15.excalidraw.md",
+    "src/math/attachements/something 2023-08-13 14.23.07.excalidraw.md",
+    "src/math/attachements/attachements/Pasted Image 20230813160606_917.png",
+    "src/math/attachements/attachements/Pasted Image 20230813112726_119.png",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
+    "src/math/attachements/something 2023-08-13 10.46.17.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "src/math/attachements/attachements",
+    "src/math/attachements",
+    "src/math/Else.md",
+    "src/math/Something.md",
+    "src/math/attachements/else 2023-08-12 18.15.57.excalidraw.md",
+    "src/math/attachements/Something 2023-08-12 20.05.03.excalidraw.md",
+    "src/math/attachements/else 2023-08-12 18.16.16.excalidraw.md",
+    "src",
+    "math/else.md",
+    "global",
+    "src/math/attachements/Something 2023-08-12 15.50.51.excalidraw.md",
     "math/attachements/something 2023-08-12 15.30.00.excalidraw.md",
     "math/attachements/something 2023-08-12 15.37.17.excalidraw.md",
     "math/something.md",
-    "templates/Note.md",
     "ntoe.md",
     "Math.md",
     "math/test.md",
     "math/attachements/K-04.pdf",
     "math/attachements/test 2023-08-12 14.51.29.excalidraw.md",
-    "templates/reloadFile.md",
-    "math/attachements/test 2023-08-12 14.07.52.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-12 13.05.12.excalidraw.md",
-    "test 2023-08-12 14.07.52.excalidrawi.md",
     "Untitled.canvas",
-    "math/attachements/test 2023-08-12 14.20.42.excalidraw.md",
-    "templates/draw.md",
-    "math/attachements/test 2023-08-12 14.09.47.excalidraw.md",
-    "templates/attachements/draw 2023-08-12 14.07.20.excalidraw.md",
     "templates/attachements",
-    "math/attachements/test 2023-08-12 14.02.54.excalidraw.md",
-    "math/attachements/test 2023-08-12 14.02.15.excalidraw.md",
-    "math/attachements/test 2023-08-12 14.01.36.excalidraw.md",
-    "math/attachements",
     "templates",
-    "Excalidraw/Drawing 2023-08-12 13.11.10.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-12 13.06.52.excalidraw.md",
-    "Excalidraw",
-    "math",
-    "Drawing 2023-08-12 12.46.55.excalidraw.md",
-    "Untitled 3.md",
-    "2023-08-12.md"
+    "Excalidraw"
   ]
 }

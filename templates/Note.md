@@ -1,4 +1,4 @@
-#<%tp.file.folder(true)%>
+#<% tp.file.folder(true).split('/').at(-1) %>
 
 ---
 >[!quote] Quote of the day <%tp.date.now("YYYY-MM-DD")%>

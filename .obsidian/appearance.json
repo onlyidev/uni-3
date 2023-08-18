@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Catppuccin",
   "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "textFontFamily": "Calibri",
   "monospaceFontFamily": "JetBrains Mono",
   "translucency": true,
   "theme": "obsidian"
