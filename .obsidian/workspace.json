@@ -1,21 +1,19 @@
 {
   "main": {
-    "id": "44271277ad802ff7",
+    "id": "7f6098b3893ffccf",
     "type": "split",
     "children": [
       {
-        "id": "29f1b9ea0e771233",
+        "id": "506df139ad16ff18",
         "type": "tabs",
         "children": [
           {
-            "id": "c012258d9599eddb",
+            "id": "a5f4f30a6311cce3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "global/Stats.md",
-                "mode": "preview",
-                "source": true
+                "file": "src/math/attachements/diff_Lecture1 2023-09-04 08.43.46.excalidraw.md"
               }
             }
           }
@@ -25,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "52bd548d2d698293",
+    "id": "2fc010defedb9446",
     "type": "split",
     "children": [
       {
-        "id": "80fa8ea72f1aab83",
+        "id": "a53c1ad0c53dce26",
         "type": "tabs",
         "children": [
           {
-            "id": "3360f32c9964518d",
+            "id": "cd56db897d075992",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +41,12 @@
             }
           },
           {
-            "id": "34c6195a2f72454b",
+            "id": "38240d186c985a90",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#test",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,36 +56,43 @@
             }
           },
           {
-            "id": "7f2e34607a10e236",
+            "id": "5b2da3eac64ac3b5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "b1a7f062c3fe133a",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "437295f59331b9d9",
+    "id": "cead5b53e5291a29",
     "type": "split",
     "children": [
       {
-        "id": "3dac0497605f84e6",
+        "id": "3ce0dcb99a383efd",
         "type": "tabs",
         "children": [
           {
-            "id": "2b11f0e2eb0146f2",
+            "id": "141a9916b7732676",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/Stats.md",
+                "file": "src/math/attachements/diff_Lecture1 2023-09-04 08.43.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,19 +104,19 @@
             }
           },
           {
-            "id": "7f3790e6e1c2d455",
+            "id": "21d2ad8d91b0d715",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "global/Stats.md",
+                "file": "src/math/attachements/diff_Lecture1 2023-09-04 08.43.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cebac0c3c17eb20c",
+            "id": "e575101345f1366e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,41 +127,16 @@
             }
           },
           {
-            "id": "6f1fd152c48b8760",
+            "id": "c775ddd3fd488ce8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/Stats.md"
+                "file": "src/math/attachements/diff_Lecture1 2023-09-04 08.43.46.excalidraw.md"
               }
             }
-          },
-          {
-            "id": "9c8cded33324e02f",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {}
-            }
-          },
-          {
-            "id": "7a2b9595abbd9031",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "df42e363e3ed1f08",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,48 +158,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c012258d9599eddb",
+  "active": "a5f4f30a6311cce3",
   "lastOpenFiles": [
-    "src/math/something.md",
+    "src/math/Diff Lecture 1.md",
     "global/Stats.md",
-    "src/math/attachements/something 2023-08-18 20.08.12.excalidraw.md",
-    "src/math/Lecture1.md",
-    "src/math/attachements/Lecture1 2023-08-18 20.28.20.excalidraw.md",
-    "templates/Note.md",
-    "Excalidraw/Scripts/Plot.md",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
-    "src/math/attachements/something 2023-08-13 21.36.15.excalidraw.md",
+    "src/math/attachements/diff_Lecture1 2023-09-04 08.43.46.excalidraw.md",
+    "src/math/attachements/attachements/Pasted Image 20230904124147_445.png",
+    "src/math/DLp1.pdf",
+    "src/math/attachements/Testing 2023-08-21 20.12.44.excalidraw.md",
+    "src/math/attachements/Testing 2023-08-28 19.08.30.excalidraw.md",
+    "src/math/Testing.md",
+    "src/math/attachements/Testing 2023-08-26 10.22.30.excalidraw.md",
+    "src/math/Diff lecture 1.md",
+    "src/math/attachements/Diff lecture 1 2023-09-03 14.50.36.excalidraw.md",
+    "src/math/diff_1.md",
+    "src/math/attachements/diff_1 2023-09-03 14.38.53.excalidraw.md",
     "src/math/attachements/something 2023-08-13 14.23.07.excalidraw.md",
     "src/math/attachements/attachements/Pasted Image 20230813160606_917.png",
     "src/math/attachements/attachements/Pasted Image 20230813112726_119.png",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
-    "src/math/attachements/something 2023-08-13 10.46.17.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "src/math/attachements/attachements",
-    "src/math/attachements",
-    "src/math/Else.md",
-    "src/math/Something.md",
-    "src/math/attachements/else 2023-08-12 18.15.57.excalidraw.md",
-    "src/math/attachements/Something 2023-08-12 20.05.03.excalidraw.md",
-    "src/math/attachements/else 2023-08-12 18.16.16.excalidraw.md",
-    "src",
-    "math/else.md",
-    "global",
-    "src/math/attachements/Something 2023-08-12 15.50.51.excalidraw.md",
-    "math/attachements/something 2023-08-12 15.30.00.excalidraw.md",
-    "math/attachements/something 2023-08-12 15.37.17.excalidraw.md",
-    "math/something.md",
-    "ntoe.md",
-    "Math.md",
-    "math/test.md",
-    "math/attachements/K-04.pdf",
-    "math/attachements/test 2023-08-12 14.51.29.excalidraw.md",
-    "Untitled.canvas",
-    "templates/attachements",
-    "templates",
-    "Excalidraw"
+    "Excalidraw/Scripts/Zoom.md",
+    "Excalidraw/Scripts/Plot.md"
   ]
 }

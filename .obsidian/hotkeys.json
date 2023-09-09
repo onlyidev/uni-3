@@ -24,5 +24,53 @@
       ],
       "key": "`"
     }
+  ],
+  "terminal:open-terminal.integrated.current": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "obsidian-editor-shortcuts:insertCursorBelow": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-editor-shortcuts:insertCursorAbove": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-excalidraw-plugin:Zoom": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "obsidian-excalidraw-plugin:fullscreen": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
   ]
 }

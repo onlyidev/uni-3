@@ -62,15 +62,16 @@ for(const [i,value] of points.entries()) {
     const x = LOWER_BOUND + i/100; // Setting resolution
     const originX = ea.targetView.currentPosition.x;
     const originY = ea.targetView.currentPosition.y;
-    const x_stretch = 10;
-    const y_stretch = 100;
+    const x_stretch = 100;
+    const y_stretch = 300;
     points[i] = [
         originX + x * x_stretch,
         x > UPPER_BOUND ? null : originY + fun.f(x) * y_stretch * -1
     ]
 }
 
-ea.setStrokeSharpness(null)
+ea.style.strokeWidth = 3;
+ea.style.roughness = 0;
 ea.setView("active");
 ea.addLine(points.filter(el => el[1] != null));
 ea.addElementsToView();
