@@ -8,7 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5f4f30a6311cce3",
+            "id": "03069dc72625f3d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/math/Diff Lecture 2.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ced2080bef181e77",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "src/math/attachements/Diff Lecture 2 2023-09-11 08.31.07.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2eb5ec88ead2aa8e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -17,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/math/attachements/diff_Lecture1 2023-09-04 08.43.46.excalidraw.md",
+                "file": "src/math/attachements/Diff Lecture 2 2023-09-11 08.31.07.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "src/math/attachements/diff_Lecture1 2023-09-04 08.43.46.excalidraw.md",
+                "file": "src/math/attachements/Diff Lecture 2 2023-09-11 08.31.07.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/math/attachements/diff_Lecture1 2023-09-04 08.43.46.excalidraw.md"
+                "file": "src/math/attachements/Diff Lecture 2 2023-09-11 08.31.07.excalidraw.md"
               }
             }
           }
@@ -158,11 +181,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a5f4f30a6311cce3",
+  "active": "ced2080bef181e77",
   "lastOpenFiles": [
-    "src/math/Diff Lecture 1.md",
-    "global/Stats.md",
+    "src/math/Diff Lecture 2.md",
     "src/math/attachements/diff_Lecture1 2023-09-04 08.43.46.excalidraw.md",
+    "src/math/attachements/Diff Lecture 2 2023-09-11 08.31.07.excalidraw.md",
+    "global/Stats.md",
+    "src/math/Diff Lecture 1.md",
     "src/math/attachements/attachements/Pasted Image 20230904124147_445.png",
     "src/math/DLp1.pdf",
     "src/math/attachements/Testing 2023-08-21 20.12.44.excalidraw.md",
