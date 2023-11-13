@@ -1,6 +1,6 @@
 ---
 created_at: 2023-08-12, 5:58:16 pm
-updated_at: 2023-08-18, 8:58:54 pm
+updated_at: 2023-11-13, 7:13:58 pm
 ---
 # Stats
 ## Common
@@ -10,7 +10,7 @@ from "src"
 where !contains(file.folder, "attachments")
 and !contains(file.name, "excalidraw")
 and file.ext = "md"
-sort file.size desc
+sort file.mtime desc
 ```
 
 ## Drawings
