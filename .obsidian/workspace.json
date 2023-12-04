@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f03677af7e4633f2",
+        "id": "8292d9b9187a2ef9",
         "type": "tabs",
         "children": [
           {
-            "id": "eb68ab1e242862ff",
+            "id": "7f323f4bde6ebdca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,18 +66,19 @@
             }
           },
           {
-            "id": "b1a7f062c3fe133a",
+            "id": "bf2a0cb5b6649be9",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cead5b53e5291a29",
@@ -163,34 +164,44 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb68ab1e242862ff",
+  "active": "7f323f4bde6ebdca",
   "lastOpenFiles": [
-    "src/math/attachements/misc 2023-11-11 20.37.02.excalidraw.md",
-    "src/math/misc.md",
-    "src/math/attachements/Diff Lecture 10 2023-11-13 08.31.23.excalidraw.md",
-    "src/math/attachements/Diff Lecture 10 2023-11-13 08.31.23.excalidraw.png",
-    "src/math/Diff Lecture 10.md",
+    "src/math/attachements/attachements/Pasted Image 20231204141756_199.png",
+    "src/math/attachements/attachements/Pasted Image 20231204133058_991.png",
+    "src/math/attachements/attachements/Pasted Image 20231204115738_380.png",
+    "src/math/attachements/attachements/Pasted Image 20231204111849_366.png",
+    "src/math/attachements/attachements/Pasted Image 20231204103216_361.png",
+    "src/math/attachements/attachements/Pasted Image 20231204101745_360.png",
+    "src/math/Diff Lecture 13.md",
     "global/Stats.md",
-    "src/math/attachements/attachements/Pasted Image 20231113160150_727.png",
-    "src/math/attachements/attachements/Pasted Image 20231113153233_722.png",
-    "src/math/attachements/attachements/Pasted Image 20231113152640_832.png",
-    "src/math/attachements/attachements/Pasted Image 20231113151226_721.png",
-    "src/math/attachements/attachements/Pasted Image 20231113145100_713.png",
-    "src/math/attachements/attachements/Pasted Image 20231113143254_723.png",
-    "src/math/attachements/attachements/Pasted Image 20231113133002_723.png",
+    "src/math/attachements/Diff Lecture 13 2023-12-04 08.32.12.excalidraw.md",
+    "src/math/Diff Lecture 12.md",
+    "src/math/attachements/Diff Lecture 11 2023-11-20 08.34.01.excalidraw.md",
+    "src/math/Diff Lecture 11.md",
+    "src/math/attachements/Diff Lecture 12 2023-11-27 08.34.41.excalidraw.md",
+    "src/math/attachements/attachements/Pasted Image 20231127140041_452.png",
+    "src/math/attachements/attachements/Pasted Image 20231127133916_437.png",
+    "src/math/attachements/attachements/Pasted Image 20231127130519_419.png",
+    "src/math/attachements/attachements/Pasted Image 20231127114910_153.png",
+    "src/math/attachements/attachements/Pasted Image 20231127112423_834.png",
+    "src/math/attachements/Diff Lecture 10 2023-11-13 08.31.23.excalidraw.md",
+    "src/math/misc.md",
+    "src/math/Diff Lecture 10.md",
+    "Untitled.canvas",
+    "src/math/attachements/Lecture 7 2023-10-16 08.47.26.excalidraw.md",
+    "src/math/Diff Lecture 7.md",
+    "src/math/attachements/misc 2023-11-11 20.37.02.excalidraw.md",
     "src/math/attachements/Diff Lecture 9 2023-11-06 08.30.09.excalidraw.md",
     "src/math/Diff Lecture 9.md",
-    "src/math/attachements/attachements/Pasted Image 20231106102246_645.png",
     "src/math/Diff Lecture 9 (11/06).md",
     "src/math/Diff Lecture 9 (11",
     "src/math/Lab1.md",
-    "src/math/attachements/attachements/Pasted Image 20231104215100_479.png",
     "src/math/Lecture 8.md",
     "src/math/attachements/Kontrolinis Practice 2023-10-23 14.56.27.excalidraw.md",
     "src/math/Kontrolinis Practice.md",
@@ -199,14 +210,6 @@
     "src/math/attachements/Diff Lecture 2 2023-09-11 08.31.07.excalidraw.md",
     "src/math/attachements/Diff Lecture 3 2023-09-18 09.12.58.excalidraw.md",
     "src/math/attachements/Diff Lecture 4 2023-09-25 08.33.10.excalidraw.md",
-    "src/math/attachements/Diff Lecture 5 2023-10-02 08.34.06.excalidraw.md",
-    "src/math/attachements/diff_Lecture1 2023-09-04 08.43.46.excalidraw.md",
-    "src/math/attachements/Testing 2023-08-28 19.08.30.excalidraw.md",
-    "src/math/attachements/Testing 2023-08-26 10.22.30.excalidraw.md",
-    "src/math/attachements/Testing 2023-08-21 20.12.44.excalidraw.md",
-    "src/math/attachements/Lab1 2023-10-14 10.28.27.excalidraw.md",
-    "src/math/Testing.md",
-    "src/math/Diff Lecture 4.md",
     "src/math/DLp1.pdf"
   ]
 }
