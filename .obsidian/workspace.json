@@ -4,18 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "8292d9b9187a2ef9",
+        "id": "d8172049fe5df76a",
         "type": "tabs",
         "children": [
           {
-            "id": "7f323f4bde6ebdca",
+            "id": "2b5c9a12c0f869b0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "src/math/attachements/Diff Exam 2023-12-27 22.14.00.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "a3bfef6ae6607806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "global/Stats.md",
-                "mode": "preview",
+                "file": "src/math/Diff Exam.md",
+                "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "d50ab0acfe20ebb6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "src/math/attachements/Diff Lecture 10 2023-11-13 08.31.23.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "63a738206d80c699",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "src/math/attachements/Diff Lecture 13 2023-12-04 08.32.12.excalidraw.md"
               }
             }
           }
@@ -94,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "global/Stats.md",
+                "file": "src/math/attachements/Diff Exam 2023-12-27 22.14.00.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "global/Stats.md",
+                "file": "src/math/attachements/Diff Exam 2023-12-27 22.14.00.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "global/Stats.md"
+                "file": "src/math/attachements/Diff Exam 2023-12-27 22.14.00.excalidraw.md"
               }
             }
           },
@@ -170,46 +200,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f323f4bde6ebdca",
+  "active": "2b5c9a12c0f869b0",
   "lastOpenFiles": [
-    "src/math/attachements/attachements/Pasted Image 20231204141756_199.png",
-    "src/math/attachements/attachements/Pasted Image 20231204133058_991.png",
-    "src/math/attachements/attachements/Pasted Image 20231204115738_380.png",
-    "src/math/attachements/attachements/Pasted Image 20231204111849_366.png",
-    "src/math/attachements/attachements/Pasted Image 20231204103216_361.png",
-    "src/math/attachements/attachements/Pasted Image 20231204101745_360.png",
-    "src/math/Diff Lecture 13.md",
+    "src/math/attachements/attachements/Pasted Image 20231228214731_124.png",
+    "src/math/attachements/attachements/Pasted Image 20231227225928_771.png",
+    "src/math/attachements/attachements/Pasted Image 20231227223557_908.png",
+    "src/math/attachements/attachements/Pasted Image 20231227223340_760.png",
+    "src/math/Diff Exam.md",
     "global/Stats.md",
     "src/math/attachements/Diff Lecture 13 2023-12-04 08.32.12.excalidraw.md",
+    "src/math/attachements/Diff Lecture 10 2023-11-13 08.31.23.excalidraw.md",
+    "src/math/Diff Lecture 10.md",
+    "src/math/attachements/Diff Exam 2023-12-27 22.14.00.excalidraw.md",
+    "src/math/attachements/attachements/Pasted Image 20231227221515_745.png",
+    "src/math/Diff Lecture 15.md",
+    "src/math/attachements/attachements/Pasted Image 20231218152229_721.png",
+    "src/math/attachements/Diff Lecture 15 2023-12-18 08.30.02.excalidraw.md",
+    "src/math/attachements/attachements/Pasted Image 20231218150956_434.png",
+    "src/math/attachements/attachements/Pasted Image 20231218140629_437.png",
+    "src/math/attachements/attachements/Pasted Image 20231218132305_438.png",
+    "src/math/attachements/attachements/Pasted Image 20231218115034_254.png",
+    "src/math/attachements/attachements/Pasted Image 20231218111141_548.png",
+    "src/math/Diff Lecture 14.md",
+    "src/math/attachements/Diff Lecture 14 2023-12-11 08.34.03.excalidraw.md",
+    "src/math/Diff Lecture 13.md",
+    "src/math/Diff Lecture 6.md",
+    "src/math/attachements/Diff Lecture 5 2023-10-02 08.34.06.excalidraw.md",
+    "src/math/Diff Lecture 5.md",
+    "src/math/Diff Lecture 7.md",
+    "src/math/attachements/Diff Lecture 6 2023-10-09 08.33.14.excalidraw.md",
+    "src/math/Diff Lecture 4.md",
     "src/math/Diff Lecture 12.md",
     "src/math/attachements/Diff Lecture 11 2023-11-20 08.34.01.excalidraw.md",
     "src/math/Diff Lecture 11.md",
     "src/math/attachements/Diff Lecture 12 2023-11-27 08.34.41.excalidraw.md",
-    "src/math/attachements/attachements/Pasted Image 20231127140041_452.png",
-    "src/math/attachements/attachements/Pasted Image 20231127133916_437.png",
-    "src/math/attachements/attachements/Pasted Image 20231127130519_419.png",
-    "src/math/attachements/attachements/Pasted Image 20231127114910_153.png",
-    "src/math/attachements/attachements/Pasted Image 20231127112423_834.png",
-    "src/math/attachements/Diff Lecture 10 2023-11-13 08.31.23.excalidraw.md",
     "src/math/misc.md",
-    "src/math/Diff Lecture 10.md",
     "Untitled.canvas",
     "src/math/attachements/Lecture 7 2023-10-16 08.47.26.excalidraw.md",
-    "src/math/Diff Lecture 7.md",
     "src/math/attachements/misc 2023-11-11 20.37.02.excalidraw.md",
     "src/math/attachements/Diff Lecture 9 2023-11-06 08.30.09.excalidraw.md",
-    "src/math/Diff Lecture 9.md",
-    "src/math/Diff Lecture 9 (11/06).md",
     "src/math/Diff Lecture 9 (11",
-    "src/math/Lab1.md",
-    "src/math/Lecture 8.md",
-    "src/math/attachements/Kontrolinis Practice 2023-10-23 14.56.27.excalidraw.md",
-    "src/math/Kontrolinis Practice.md",
-    "templates/Note.md",
-    "templates/draw.md",
-    "src/math/attachements/Diff Lecture 2 2023-09-11 08.31.07.excalidraw.md",
-    "src/math/attachements/Diff Lecture 3 2023-09-18 09.12.58.excalidraw.md",
-    "src/math/attachements/Diff Lecture 4 2023-09-25 08.33.10.excalidraw.md",
     "src/math/DLp1.pdf"
   ]
 }
